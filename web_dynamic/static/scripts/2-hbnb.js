@@ -1,4 +1,5 @@
-// perform functions based on input checkbox
+// perform the  functions based on input checkbox
+
 $(function () {
   let clicked = [];
   let temp = [];
